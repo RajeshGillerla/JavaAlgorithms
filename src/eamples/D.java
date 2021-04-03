@@ -23,7 +23,7 @@ public class D implements A,B {
 		System.out.println("In C RollNo. 10");
 	}
 	public void collegeName() {
-		System.out.println("In C . College Name ABC");
+		System.out.println("In C . College Name XYZ");
 	}
 //	void rollNo()
 	public static void main(String[] args) {
@@ -34,5 +34,6 @@ public class D implements A,B {
 		a.getName();
 		b.getName();
 		d.getName();
+		
 	}
 }
